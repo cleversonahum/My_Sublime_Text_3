@@ -1,8 +1,8 @@
 {
-	"color_scheme": "Packages/Predawn/predawn.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"theme": "predawn-DEV.sublime-theme"
+	"theme": "Material-Theme-Darker.sublime-theme"
 }
