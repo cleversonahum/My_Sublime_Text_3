@@ -1,6 +1,9 @@
 {
 	"folder_history":
 	[
+		"/home/cleversonahum/.config/sublime-text-3/Packages/User/Color Highlighter",
+		"/home/cleversonahum/Downloads",
+		"/home/cleversonahum/RIOT/examples/my_project",
 		"/home/cleversonahum/Documentos/Node.js/meanjs/mean",
 		"/home/cleversonahum/Documentos/sas",
 		"/home/cleversonahum/Documentos/meanjs",
@@ -15,239 +18,13 @@
 		"/home/cleversonahum/Documentos/Node.js/ebook_exer",
 		"/home/cleversonahum/Documents/App_Ionic"
 	],
-	"last_version": 3103,
-	"last_window_id": 3,
+	"last_version": 3114,
+	"last_window_id": 4,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 0.0,
+		"new_window_height": 729.0,
 		"new_window_settings":
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"en",
-						"end"
-					],
-					[
-						"re",
-						"re	require"
-					]
-				]
-			},
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 368.0,
-				"last_filter": "alignme",
-				"selected_items":
-				[
-					[
-						"alignme",
-						"Preferences: Alignment File Settings – User"
-					],
-					[
-						"Package Control: ",
-						"Package Control: Install Package"
-					],
-					[
-						"packa",
-						"Package Control: Install Package"
-					],
-					[
-						"alignmen",
-						"Preferences: Alignment File Settings – User"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
-						"ali",
-						"AlignTab: Table Mode"
-					],
-					[
-						"rei",
-						"Indentation: Reindent Lines"
-					],
-					[
-						"pac",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: in",
-						"Package Control: Install Package"
-					],
-					[
-						"Control",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control:",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 561.0
-			},
-			"console":
-			{
-				"height": 126.0,
-				"history":
-				[
-					"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation') ",
-					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/home/cleversonahum/Documentos/sas/client/listp/list_tasks/listt.controller.js",
-				"/home/cleversonahum/Documentos/sas/client/home/list_tasks/listt.controller.js",
-				"/home/cleversonahum/Documentos/sas/server/views/index.html",
-				"/home/cleversonahum/Documentos/sas/client/listp/listp.view.html",
-				"/home/cleversonahum/Documentos/sas/client/listp/listp.controller.js",
-				"/home/cleversonahum/Scripts Owncloud/Dockerfile",
-				"/home/cleversonahum/Documentos/meanjs/package.json",
-				"/home/cleversonahum/Scripts Owncloud/lasse_cloud",
-				"/home/cleversonahum/coreos/Services/owncloud.service",
-				"/home/cleversonahum/coreos/Services/site-lasse.service",
-				"/home/cleversonahum/teste",
-				"/home/cleversonahum/docker-owncloud/Dockerfile",
-				"/home/cleversonahum/Documentos/cloud-config.yaml",
-				"/home/cleversonahum/id_rsa.pub",
-				"/home/cleversonahum/Documentos/Node.js/ebook_exer/test_express/app.js",
-				"/home/cleversonahum/Documentos/Node.js/ebook_exer/ntalk/package.json",
-				"/home/cleversonahum/Documentos/Node.js/ebook_exer/test_express/package.json",
-				"/home/cleversonahum/Documentos/Node.js/ebook_exer/ntalk2/package.json",
-				"/home/cleversonahum/Documentos/Node.js/ebook_exer/ntalk/tete",
-				"/home/cleversonahum/Documentos/Node.js/ebook_exer/ntalk/app.js",
-				"/home/cleversonahum/.config/sublime-text-3/Packages/User/Base File.sublime-settings",
-				"/home/cleversonahum/Documentos/Node.js/ebook_exer/2.5/app.js",
-				"/home/cleversonahum/Documentos/Node.js/ebook_exer/2.5/erro.html",
-				"/home/cleversonahum/Documentos/Node.js/ebook_exer/2.5/contato.html",
-				"/home/cleversonahum/Documentos/Node.js/ebook_exer/2.5/artigos.html",
-				"/home/cleversonahum/Documentos/Node.js/Video aulas - Tiago Porto/aula_1.js",
-				"/home/cleversonahum/teste.js",
-				"/home/cleversonahum/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/cleversonahum/popcorntime"
-			],
-			"find":
-			{
-				"height": 55.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"ng-con",
-					"$scope",
-					"$name",
-					"oc"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"lasseOwncloud",
-					"$name"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 27.0
-			},
-			"input":
-			{
-				"height": 55.0
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 0.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "",
-			"replace":
-			{
-				"height": 50.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 500.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"",
-						"~/Documentos/Node.js/CinemaEmCartaz_bot/CinemaEmCartaz_bot.sublime-project"
-					]
-				],
-				"width": 380.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 216.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 0.0
-	},
-	"windows":
-	[
 		{
 			"auto_complete":
 			{
@@ -279,10 +56,6 @@
 					]
 				]
 			},
-			"buffers":
-			[
-			],
-			"build_system": "",
 			"build_system_choices":
 			[
 			],
@@ -290,19 +63,19 @@
 			"command_palette":
 			{
 				"height": 368.0,
-				"last_filter": "alignme",
+				"last_filter": "packa",
 				"selected_items":
 				[
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
 					[
 						"alignme",
 						"Preferences: Alignment File Settings – User"
 					],
 					[
 						"Package Control: ",
-						"Package Control: Install Package"
-					],
-					[
-						"packa",
 						"Package Control: Install Package"
 					],
 					[
@@ -358,15 +131,9 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/home/cleversonahum/Documentos/Node.js/meanjs/mean/modules",
-				"/home/cleversonahum/Documentos/Node.js/meanjs/mean/modules/apps",
-				"/home/cleversonahum/Documentos/Node.js/meanjs/mean/modules/apps/server",
-				"/home/cleversonahum/Documentos/Node.js/meanjs/mean/modules/apps/tests"
-			],
 			"file_history":
 			[
+				"/home/cleversonahum/RIOT/examples/my_project/Makefile",
 				"/home/cleversonahum/Documentos/Node.js/meanjs/mean/modules/apps/server/routes/categories.server.routes.js",
 				"/home/cleversonahum/Documentos/Node.js/meanjs/mean/modules/apps/server/controllers/categories.server.controller.js",
 				"/home/cleversonahum/coreos/Services/owncloud.service",
@@ -450,15 +217,282 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 55.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 144.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/Documentos/Node.js/CinemaEmCartaz_bot/CinemaEmCartaz_bot.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 219.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1362.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"retval",
+						"retval2"
+					],
+					[
+						"re",
+						"retval"
+					],
+					[
+						"md",
+						"md-list"
+					],
+					[
+						"ti",
+						"title"
+					],
+					[
+						"desc",
+						"description"
+					],
+					[
+						"$sc",
+						"$scope	AngularJS"
+					],
+					[
+						"en",
+						"end"
+					]
+				]
+			},
+			"buffers":
 			[
-				{
-					"path": "/home/cleversonahum/Documentos/sas"
-				},
-				{
-					"path": "/home/cleversonahum/Documentos/Node.js/meanjs/mean"
-				}
 			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "packa",
+				"selected_items":
+				[
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"alignme",
+						"Preferences: Alignment File Settings – User"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"alignmen",
+						"Preferences: Alignment File Settings – User"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"ali",
+						"AlignTab: Table Mode"
+					],
+					[
+						"rei",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Control",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control:",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 575.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation') ",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/cleversonahum/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/cleversonahum/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/cleversonahum/Documents/S.O/processos_1.c",
+				"/home/cleversonahum/Documents/S.O/processos_main.c",
+				"/home/cleversonahum/Documents/S.O/processos_3.c",
+				"/home/cleversonahum/Documents/S.O/processos_2.c",
+				"/home/cleversonahum/Documents/S.O/processos_1",
+				"/home/cleversonahum/Documents/S.O/trab_processos.c",
+				"/home/cleversonahum/Documents/S.O/trab_processos",
+				"/home/cleversonahum/RIOT/examples/my_project/Makefile",
+				"/home/cleversonahum/Documentos/Node.js/meanjs/mean/modules/apps/server/routes/categories.server.routes.js",
+				"/home/cleversonahum/Documentos/Node.js/meanjs/mean/modules/apps/server/controllers/categories.server.controller.js",
+				"/home/cleversonahum/coreos/Services/owncloud.service",
+				"/home/cleversonahum/Documentos/Node.js/meanjs/mean/modules/apps/tests/server/category.server.model.tests.js",
+				"/home/cleversonahum/Documentos/Node.js/meanjs/mean/modules/apps/server/routes/apps.server.routes.js",
+				"/home/cleversonahum/Documentos/Node.js/meanjs/mean/modules/apps/server/models/category.server.model.js",
+				"/home/cleversonahum/Documentos/sas/client/listp/listp.css",
+				"/home/cleversonahum/Documentos/sas/client/listp/listp.controller.js",
+				"/home/cleversonahum/Documentos/sas/client/listp/listp.view.html",
+				"/home/cleversonahum/Documentos/sas/client/addt/addt.controller.js",
+				"/home/cleversonahum/Documentos/sas/client/addt/addt.view.html",
+				"/home/cleversonahum/Documentos/sas/client/app.js",
+				"/home/cleversonahum/Documentos/sas/server/views/index.html",
+				"/home/cleversonahum/Documentos/sas/client/listp/listp.view.js",
+				"/home/cleversonahum/Documentos/sas/client/addp/addp.css",
+				"/home/cleversonahum/Documentos/sas/server/routes/route.js",
+				"/home/cleversonahum/Documentos/sas/client/listp/list_tasks/listt.controller.js",
+				"/home/cleversonahum/Documentos/sas/client/home/list_tasks/listt.controller.js",
+				"/home/cleversonahum/Scripts Owncloud/Dockerfile",
+				"/home/cleversonahum/Documentos/meanjs/package.json",
+				"/home/cleversonahum/Scripts Owncloud/lasse_cloud",
+				"/home/cleversonahum/coreos/Services/site-lasse.service",
+				"/home/cleversonahum/teste",
+				"/home/cleversonahum/docker-owncloud/Dockerfile",
+				"/home/cleversonahum/Documentos/cloud-config.yaml",
+				"/home/cleversonahum/id_rsa.pub",
+				"/home/cleversonahum/Documentos/Node.js/ebook_exer/test_express/app.js",
+				"/home/cleversonahum/Documentos/Node.js/ebook_exer/ntalk/package.json",
+				"/home/cleversonahum/Documentos/Node.js/ebook_exer/test_express/package.json",
+				"/home/cleversonahum/Documentos/Node.js/ebook_exer/ntalk2/package.json",
+				"/home/cleversonahum/Documentos/Node.js/ebook_exer/ntalk/tete",
+				"/home/cleversonahum/Documentos/Node.js/ebook_exer/ntalk/app.js",
+				"/home/cleversonahum/.config/sublime-text-3/Packages/User/Base File.sublime-settings",
+				"/home/cleversonahum/Documentos/Node.js/ebook_exer/2.5/app.js",
+				"/home/cleversonahum/Documentos/Node.js/ebook_exer/2.5/erro.html",
+				"/home/cleversonahum/Documentos/Node.js/ebook_exer/2.5/contato.html",
+				"/home/cleversonahum/Documentos/Node.js/ebook_exer/2.5/artigos.html",
+				"/home/cleversonahum/Documentos/Node.js/Video aulas - Tiago Porto/aula_1.js",
+				"/home/cleversonahum/teste.js",
+				"/home/cleversonahum/popcorntime"
+			],
+			"find":
+			{
+				"height": 55.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"_",
+					">\n",
+					"person",
+					"state",
+					"ng-con",
+					"$scope",
+					"$name",
+					"oc"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"project",
+					"lasseOwncloud",
+					"$name"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
 			"groups":
 			[
 				{
@@ -507,7 +541,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,0,0,1440,900",
+			"position": "0,0,0,0,0,0,18,1362,747,1366,768",
 			"project": "",
 			"replace":
 			{
