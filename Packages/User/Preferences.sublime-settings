@@ -1,4 +1,8 @@
 {
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
-	"theme": "Material-Theme.sublime-theme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Material-Theme.sublime-theme"
 }

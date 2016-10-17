@@ -1,25 +1,13 @@
 {
 	"folder_history":
 	[
-		"/home/cleversonahum/.config/sublime-text-3/Packages/User/Color Highlighter",
-		"/home/cleversonahum/Downloads",
-		"/home/cleversonahum/RIOT/examples/my_project",
-		"/home/cleversonahum/Documentos/Node.js/meanjs/mean",
-		"/home/cleversonahum/Documentos/sas",
-		"/home/cleversonahum/Documentos/meanjs",
-		"/home/cleversonahum/Scripts Owncloud",
-		"/home/cleversonahum/docker-owncloud",
-		"/home/cleversonahum/coreos",
-		"/home/cleversonahum/Documentos/Node.js/meanJS/mean",
-		"/home/cleversonahum/Documentos/Node.js/Video aulas - Tiago Porto",
-		"/home/cleversonahum/Documentos/Node.js/ebook_exer/test_express",
-		"/home/cleversonahum/Documentos/Node.js/ebook_exer/ntalk2",
-		"/home/cleversonahum/Documentos/Node.js/ebook_exer/ntalk",
-		"/home/cleversonahum/Documentos/Node.js/ebook_exer",
-		"/home/cleversonahum/Documents/App_Ionic"
+		"/home/cleversonahum/Documents/OpenBike/server/db",
+		"/home/cleversonahum/Documents/OpenBike",
+		"/home/cleversonahum/Documents/sino_porta",
+		"/home/cleversonahum/Documents/S.O"
 	],
 	"last_version": 3114,
-	"last_window_id": 4,
+	"last_window_id": 8,
 	"log_indexing": false,
 	"settings":
 	{
@@ -31,272 +19,40 @@
 				"selected_items":
 				[
 					[
-						"md",
-						"md-list"
+						"add",
+						"addUrl"
 					],
 					[
-						"ti",
-						"title"
+						"re",
+						"req"
 					],
 					[
-						"desc",
-						"description"
+						"port",
+						"portas"
 					],
 					[
-						"$sc",
+						"url",
+						"urlApi"
+					],
+					[
+						"get",
+						"getPortas"
+					],
+					[
+						"$cope",
 						"$scope	AngularJS"
 					],
 					[
-						"en",
-						"end"
+						"ch",
+						"chats"
 					],
 					[
-						"re",
-						"re	require"
-					]
-				]
-			},
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 368.0,
-				"last_filter": "packa",
-				"selected_items":
-				[
-					[
-						"packa",
-						"Package Control: Install Package"
+						"h",
+						"h2	Tag"
 					],
 					[
-						"alignme",
-						"Preferences: Alignment File Settings – User"
-					],
-					[
-						"Package Control: ",
-						"Package Control: Install Package"
-					],
-					[
-						"alignmen",
-						"Preferences: Alignment File Settings – User"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
-						"ali",
-						"AlignTab: Table Mode"
-					],
-					[
-						"rei",
-						"Indentation: Reindent Lines"
-					],
-					[
-						"pac",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: in",
-						"Package Control: Install Package"
-					],
-					[
-						"Control",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control:",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 561.0
-			},
-			"console":
-			{
-				"height": 126.0,
-				"history":
-				[
-					"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation') ",
-					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/home/cleversonahum/RIOT/examples/my_project/Makefile",
-				"/home/cleversonahum/Documentos/Node.js/meanjs/mean/modules/apps/server/routes/categories.server.routes.js",
-				"/home/cleversonahum/Documentos/Node.js/meanjs/mean/modules/apps/server/controllers/categories.server.controller.js",
-				"/home/cleversonahum/coreos/Services/owncloud.service",
-				"/home/cleversonahum/Documentos/Node.js/meanjs/mean/modules/apps/tests/server/category.server.model.tests.js",
-				"/home/cleversonahum/Documentos/Node.js/meanjs/mean/modules/apps/server/routes/apps.server.routes.js",
-				"/home/cleversonahum/Documentos/Node.js/meanjs/mean/modules/apps/server/models/category.server.model.js",
-				"/home/cleversonahum/Documentos/sas/client/listp/listp.css",
-				"/home/cleversonahum/Documentos/sas/client/listp/listp.controller.js",
-				"/home/cleversonahum/Documentos/sas/client/listp/listp.view.html",
-				"/home/cleversonahum/Documentos/sas/client/addt/addt.controller.js",
-				"/home/cleversonahum/Documentos/sas/client/addt/addt.view.html",
-				"/home/cleversonahum/Documentos/sas/client/app.js",
-				"/home/cleversonahum/Documentos/sas/server/views/index.html",
-				"/home/cleversonahum/Documentos/sas/client/listp/listp.view.js",
-				"/home/cleversonahum/Documentos/sas/client/addp/addp.css",
-				"/home/cleversonahum/Documentos/sas/server/routes/route.js",
-				"/home/cleversonahum/Documentos/sas/client/listp/list_tasks/listt.controller.js",
-				"/home/cleversonahum/Documentos/sas/client/home/list_tasks/listt.controller.js",
-				"/home/cleversonahum/Scripts Owncloud/Dockerfile",
-				"/home/cleversonahum/Documentos/meanjs/package.json",
-				"/home/cleversonahum/Scripts Owncloud/lasse_cloud",
-				"/home/cleversonahum/coreos/Services/site-lasse.service",
-				"/home/cleversonahum/teste",
-				"/home/cleversonahum/docker-owncloud/Dockerfile",
-				"/home/cleversonahum/Documentos/cloud-config.yaml",
-				"/home/cleversonahum/id_rsa.pub",
-				"/home/cleversonahum/Documentos/Node.js/ebook_exer/test_express/app.js",
-				"/home/cleversonahum/Documentos/Node.js/ebook_exer/ntalk/package.json",
-				"/home/cleversonahum/Documentos/Node.js/ebook_exer/test_express/package.json",
-				"/home/cleversonahum/Documentos/Node.js/ebook_exer/ntalk2/package.json",
-				"/home/cleversonahum/Documentos/Node.js/ebook_exer/ntalk/tete",
-				"/home/cleversonahum/Documentos/Node.js/ebook_exer/ntalk/app.js",
-				"/home/cleversonahum/.config/sublime-text-3/Packages/User/Base File.sublime-settings",
-				"/home/cleversonahum/Documentos/Node.js/ebook_exer/2.5/app.js",
-				"/home/cleversonahum/Documentos/Node.js/ebook_exer/2.5/erro.html",
-				"/home/cleversonahum/Documentos/Node.js/ebook_exer/2.5/contato.html",
-				"/home/cleversonahum/Documentos/Node.js/ebook_exer/2.5/artigos.html",
-				"/home/cleversonahum/Documentos/Node.js/Video aulas - Tiago Porto/aula_1.js",
-				"/home/cleversonahum/teste.js",
-				"/home/cleversonahum/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/cleversonahum/popcorntime"
-			],
-			"find":
-			{
-				"height": 55.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": true,
-				"find_history":
-				[
-					"_",
-					">\n",
-					"person",
-					"state",
-					"ng-con",
-					"$scope",
-					"$name",
-					"oc"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"project",
-					"lasseOwncloud",
-					"$name"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 27.0
-			},
-			"input":
-			{
-				"height": 55.0
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 0.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "",
-			"replace":
-			{
-				"height": 144.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 500.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"",
-						"~/Documentos/Node.js/CinemaEmCartaz_bot/CinemaEmCartaz_bot.sublime-project"
-					]
-				],
-				"width": 380.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 219.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 1362.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"retval",
-						"retval2"
-					],
-					[
-						"re",
-						"retval"
+						"ng-cl",
+						"ng-click	AngularJS"
 					],
 					[
 						"md",
@@ -320,10 +76,6 @@
 					]
 				]
 			},
-			"buffers":
-			[
-			],
-			"build_system": "",
 			"build_system_choices":
 			[
 			],
@@ -331,7 +83,7 @@
 			"command_palette":
 			{
 				"height": 354.0,
-				"last_filter": "packa",
+				"last_filter": "",
 				"selected_items":
 				[
 					[
@@ -401,15 +153,17 @@
 			},
 			"file_history":
 			[
+				"/home/cleversonahum/Documents/sino_porta/www/js/services.js",
 				"/home/cleversonahum/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/cleversonahum/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
-				"/home/cleversonahum/Documents/S.O/processos_1.c",
-				"/home/cleversonahum/Documents/S.O/processos_main.c",
-				"/home/cleversonahum/Documents/S.O/processos_3.c",
-				"/home/cleversonahum/Documents/S.O/processos_2.c",
-				"/home/cleversonahum/Documents/S.O/processos_1",
-				"/home/cleversonahum/Documents/S.O/trab_processos.c",
-				"/home/cleversonahum/Documents/S.O/trab_processos",
+				"/home/cleversonahum/Documents/sino_porta/www/index.html",
+				"/home/cleversonahum/Documents/sino_porta/www/templates/tabs.html",
+				"/home/cleversonahum/Documents/sino_porta/server/server.js",
+				"/home/cleversonahum/Documents/sino_porta/www/templates/tab-account.html",
+				"/home/cleversonahum/Documents/sino_porta/www/templates/tab-chats.html",
+				"/home/cleversonahum/Documents/sino_porta/www/js/controllers.js",
+				"/home/cleversonahum/Documents/sino_porta/www/js/app.js",
+				"/home/cleversonahum/Documents/sino_porta/www/templates/tab-dash.html",
+				"/home/cleversonahum/Documents/sino_porta/www/templates/chat-detail.html",
 				"/home/cleversonahum/RIOT/examples/my_project/Makefile",
 				"/home/cleversonahum/Documentos/Node.js/meanjs/mean/modules/apps/server/routes/categories.server.routes.js",
 				"/home/cleversonahum/Documentos/Node.js/meanjs/mean/modules/apps/server/controllers/categories.server.controller.js",
@@ -454,7 +208,7 @@
 			],
 			"find":
 			{
-				"height": 55.0
+				"height": 70.0
 			},
 			"find_in_files":
 			{
@@ -468,6 +222,358 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"add",
+					"info",
+					"notifications",
+					"_",
+					">\n",
+					"person",
+					"state",
+					"ng-con",
+					"$scope",
+					"$name",
+					"oc"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"project",
+					"lasseOwncloud",
+					"$name"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 55.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/Documents/sino_porta.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 216.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1362.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"con",
+						"console"
+					],
+					[
+						"add",
+						"addUrl"
+					],
+					[
+						"re",
+						"req"
+					],
+					[
+						"port",
+						"portas"
+					],
+					[
+						"url",
+						"urlApi"
+					],
+					[
+						"get",
+						"getPortas"
+					],
+					[
+						"$cope",
+						"$scope	AngularJS"
+					],
+					[
+						"ch",
+						"chats"
+					],
+					[
+						"h",
+						"h2	Tag"
+					],
+					[
+						"ng-cl",
+						"ng-click	AngularJS"
+					],
+					[
+						"md",
+						"md-list"
+					],
+					[
+						"ti",
+						"title"
+					],
+					[
+						"desc",
+						"description"
+					],
+					[
+						"$sc",
+						"$scope	AngularJS"
+					],
+					[
+						"en",
+						"end"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "OpenBike/server/package.json",
+					"settings":
+					{
+						"buffer_size": 349,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "OpenBike/server/models/database.js",
+					"settings":
+					{
+						"buffer_size": 343,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "OpenBike/server/routes/index.js",
+					"settings":
+					{
+						"buffer_size": 205,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"alignme",
+						"Preferences: Alignment File Settings – User"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"alignmen",
+						"Preferences: Alignment File Settings – User"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"ali",
+						"AlignTab: Table Mode"
+					],
+					[
+						"rei",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Control",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control:",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 575.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation') ",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/cleversonahum/Documents/OpenBike",
+				"/home/cleversonahum/Documents/OpenBike/server",
+				"/home/cleversonahum/Documents/OpenBike/server/models",
+				"/home/cleversonahum/Documents/OpenBike/server/public/javascripts",
+				"/home/cleversonahum/Documents/OpenBike/server/routes"
+			],
+			"file_history":
+			[
+				"/home/cleversonahum/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/cleversonahum/Documents/OpenBike/server/models/model.js",
+				"/home/cleversonahum/Documents/OpenBike/server/db/models.js",
+				"/home/cleversonahum/Documents/OpenBike/server/controllers/userController.js",
+				"/home/cleversonahum/Documents/OpenBike/server/db/teste_conexao.js",
+				"/home/cleversonahum/Documents/sino_porta/www/js/services.js",
+				"/home/cleversonahum/Documents/sino_porta/www/index.html",
+				"/home/cleversonahum/Documents/sino_porta/www/templates/tabs.html",
+				"/home/cleversonahum/Documents/sino_porta/server/server.js",
+				"/home/cleversonahum/Documents/sino_porta/www/templates/tab-account.html",
+				"/home/cleversonahum/Documents/sino_porta/www/templates/tab-chats.html",
+				"/home/cleversonahum/Documents/sino_porta/www/js/controllers.js",
+				"/home/cleversonahum/Documents/sino_porta/www/js/app.js",
+				"/home/cleversonahum/Documents/sino_porta/www/templates/tab-dash.html",
+				"/home/cleversonahum/Documents/sino_porta/www/templates/chat-detail.html",
+				"/home/cleversonahum/RIOT/examples/my_project/Makefile",
+				"/home/cleversonahum/Documentos/Node.js/meanjs/mean/modules/apps/server/routes/categories.server.routes.js",
+				"/home/cleversonahum/Documentos/Node.js/meanjs/mean/modules/apps/server/controllers/categories.server.controller.js",
+				"/home/cleversonahum/coreos/Services/owncloud.service",
+				"/home/cleversonahum/Documentos/Node.js/meanjs/mean/modules/apps/tests/server/category.server.model.tests.js",
+				"/home/cleversonahum/Documentos/Node.js/meanjs/mean/modules/apps/server/routes/apps.server.routes.js",
+				"/home/cleversonahum/Documentos/Node.js/meanjs/mean/modules/apps/server/models/category.server.model.js",
+				"/home/cleversonahum/Documentos/sas/client/listp/listp.css",
+				"/home/cleversonahum/Documentos/sas/client/listp/listp.controller.js",
+				"/home/cleversonahum/Documentos/sas/client/listp/listp.view.html",
+				"/home/cleversonahum/Documentos/sas/client/addt/addt.controller.js",
+				"/home/cleversonahum/Documentos/sas/client/addt/addt.view.html",
+				"/home/cleversonahum/Documentos/sas/client/app.js",
+				"/home/cleversonahum/Documentos/sas/server/views/index.html",
+				"/home/cleversonahum/Documentos/sas/client/listp/listp.view.js",
+				"/home/cleversonahum/Documentos/sas/client/addp/addp.css",
+				"/home/cleversonahum/Documentos/sas/server/routes/route.js",
+				"/home/cleversonahum/Documentos/sas/client/listp/list_tasks/listt.controller.js",
+				"/home/cleversonahum/Documentos/sas/client/home/list_tasks/listt.controller.js",
+				"/home/cleversonahum/Scripts Owncloud/Dockerfile",
+				"/home/cleversonahum/Documentos/meanjs/package.json",
+				"/home/cleversonahum/Scripts Owncloud/lasse_cloud",
+				"/home/cleversonahum/coreos/Services/site-lasse.service",
+				"/home/cleversonahum/teste",
+				"/home/cleversonahum/docker-owncloud/Dockerfile",
+				"/home/cleversonahum/Documentos/cloud-config.yaml",
+				"/home/cleversonahum/id_rsa.pub",
+				"/home/cleversonahum/Documentos/Node.js/ebook_exer/test_express/app.js",
+				"/home/cleversonahum/Documentos/Node.js/ebook_exer/ntalk/package.json",
+				"/home/cleversonahum/Documentos/Node.js/ebook_exer/test_express/package.json",
+				"/home/cleversonahum/Documentos/Node.js/ebook_exer/ntalk2/package.json",
+				"/home/cleversonahum/Documentos/Node.js/ebook_exer/ntalk/tete",
+				"/home/cleversonahum/Documentos/Node.js/ebook_exer/ntalk/app.js",
+				"/home/cleversonahum/.config/sublime-text-3/Packages/User/Base File.sublime-settings",
+				"/home/cleversonahum/Documentos/Node.js/ebook_exer/2.5/app.js",
+				"/home/cleversonahum/Documentos/Node.js/ebook_exer/2.5/erro.html",
+				"/home/cleversonahum/Documentos/Node.js/ebook_exer/2.5/contato.html",
+				"/home/cleversonahum/Documentos/Node.js/ebook_exer/2.5/artigos.html",
+				"/home/cleversonahum/Documentos/Node.js/Video aulas - Tiago Porto/aula_1.js",
+				"/home/cleversonahum/teste.js",
+				"/home/cleversonahum/popcorntime"
+			],
+			"find":
+			{
+				"height": 70.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"add",
+					"info",
+					"notifications",
 					"_",
 					">\n",
 					"person",
@@ -496,14 +602,338 @@
 			"groups":
 			[
 				{
+					"selected": 2,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "OpenBike/server/package.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 349,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										99,
+										99
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												109,
+												110
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/double_quote.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												91,
+												92
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 45.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "OpenBike/server/models/database.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 343,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										161,
+										161
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "OpenBike/server/routes/index.js",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 205,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 27.0
+				"height": 25.0
 			},
 			"input":
 			{
@@ -542,10 +972,10 @@
 			},
 			"pinned_build_system": "",
 			"position": "0,0,0,0,0,0,18,1362,747,1366,768",
-			"project": "",
+			"project": "OpenBike.sublime-project",
 			"replace":
 			{
-				"height": 144.0
+				"height": 46.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -565,7 +995,7 @@
 				[
 					[
 						"",
-						"~/Documentos/Node.js/CinemaEmCartaz_bot/CinemaEmCartaz_bot.sublime-project"
+						"~/Documents/OpenBike.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -587,21 +1017,21 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 219.0,
+			"side_bar_width": 216.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 3,
-			"workspace_name": ""
+			"window_id": 7,
+			"workspace_name": "/home/cleversonahum/Documents/OpenBike.sublime-workspace"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
-			"/home/cleversonahum/Documentos/Node.js/ebook_exer/ntalk/ntalk.sublime-workspace",
-			"/home/cleversonahum/Documentos/Node.js/CinemaEmCartaz_bot/CinemaEmCartaz_bot.sublime-workspace"
+			"/home/cleversonahum/Documents/OpenBike.sublime-workspace",
+			"/home/cleversonahum/Documents/sino_porta.sublime-workspace"
 		]
 	}
 }
